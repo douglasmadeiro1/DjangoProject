@@ -14,9 +14,7 @@
             "src": "/(.*)",
             "dest": "setup/wsgi.py"
         }
-    ]
-}
-{
+    ],
     "rewrites": [
         {
             "source": "/(.*)",
