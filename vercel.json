@@ -16,3 +16,11 @@
         }
     ]
 }
+{
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/"
+        }
+    ]
+}
